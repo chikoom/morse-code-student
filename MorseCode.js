@@ -42,5 +42,5 @@ Object.keys(alphabet).forEach(l => {
 
 morseCode.translateWord("welcome") // should print .-- . .-.. -.-. --- -- . 
 morseCode.translateWord("elevation is cool") // should print . .-.. . ...- .- - .. --- -. /.. ... /-.-. --- --- .-.. 
-morseCode.translateMorse("... ---- ....")
+morseCode.translateMorse(".... ---- ....")
 morseCode.translateMorse("-. .. -.-. . / .--- --- -... / --- -. / - .... . / .-.. . ... ... --- -.")
